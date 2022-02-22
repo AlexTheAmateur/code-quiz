@@ -9,3 +9,6 @@ button {
   background-color: #400761;
   color: white;
 }
+.answer-button {
+  display: block;
+}
